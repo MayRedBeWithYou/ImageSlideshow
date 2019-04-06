@@ -1,0 +1,7 @@
+D:\OneDrive - Politechnika Warszawska\PwSG\WPF_Lab2_Wed_task\lab\WpfApp1\Vertical\obj\Debug\Vertical.csprojAssemblyReference.cache
+D:\OneDrive - Politechnika Warszawska\PwSG\WPF_Lab2_Wed_task\lab\WpfApp1\Vertical\obj\Debug\Vertical.csproj.CoreCompileInputs.cache
+D:\OneDrive - Politechnika Warszawska\PwSG\WPF_Lab2_Wed_task\lab\WpfApp1\WpfApp1\bin\Debug\Vertical.dll
+D:\OneDrive - Politechnika Warszawska\PwSG\WPF_Lab2_Wed_task\lab\WpfApp1\WpfApp1\bin\Debug\Vertical.pdb
+D:\OneDrive - Politechnika Warszawska\PwSG\WPF_Lab2_Wed_task\lab\WpfApp1\Vertical\obj\Debug\Vertical.csproj.CopyComplete
+D:\OneDrive - Politechnika Warszawska\PwSG\WPF_Lab2_Wed_task\lab\WpfApp1\Vertical\obj\Debug\Vertical.dll
+D:\OneDrive - Politechnika Warszawska\PwSG\WPF_Lab2_Wed_task\lab\WpfApp1\Vertical\obj\Debug\Vertical.pdb

@@ -1,0 +1,7 @@
+D:\OneDrive - Politechnika Warszawska\PwSG\WPF_Lab2_Wed_task\lab\WpfApp1\Horizontal\Horizontal\obj\Debug\Horizontal.csprojAssemblyReference.cache
+D:\OneDrive - Politechnika Warszawska\PwSG\WPF_Lab2_Wed_task\lab\WpfApp1\Horizontal\Horizontal\obj\Debug\Horizontal.csproj.CoreCompileInputs.cache
+D:\OneDrive - Politechnika Warszawska\PwSG\WPF_Lab2_Wed_task\lab\WpfApp1\WpfApp1\bin\Debug\Horizontal.dll
+D:\OneDrive - Politechnika Warszawska\PwSG\WPF_Lab2_Wed_task\lab\WpfApp1\WpfApp1\bin\Debug\Horizontal.pdb
+D:\OneDrive - Politechnika Warszawska\PwSG\WPF_Lab2_Wed_task\lab\WpfApp1\Horizontal\Horizontal\obj\Debug\Horizontal.csproj.CopyComplete
+D:\OneDrive - Politechnika Warszawska\PwSG\WPF_Lab2_Wed_task\lab\WpfApp1\Horizontal\Horizontal\obj\Debug\Horizontal.dll
+D:\OneDrive - Politechnika Warszawska\PwSG\WPF_Lab2_Wed_task\lab\WpfApp1\Horizontal\Horizontal\obj\Debug\Horizontal.pdb
